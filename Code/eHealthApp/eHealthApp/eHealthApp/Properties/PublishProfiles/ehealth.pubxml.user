@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Zohaib\Desktop\ehealthpub</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>07/01/2017 19:39:38</publishTime>
+    </File>
+    <File Include="bin/AutoMapper.dll">
+      <publishTime>10/07/2018 20:48:07</publishTime>
+    </File>
+    <File Include="bin/eHealthApp.dll">
+      <publishTime>10/18/2018 00:39:51</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/07/2018 20:51:27</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/07/2018 20:51:27</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/14/2018 18:04:01</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/14/2018 18:04:01</publishTime>
+    </File>
+    <File Include="callbackfb.aspx">
+      <publishTime>10/14/2018 19:29:19</publishTime>
+    </File>
+    <File Include="callbackgoogle.aspx">
+      <publishTime>10/14/2018 19:30:21</publishTime>
+    </File>
+    <File Include="callbackLI.aspx">
+      <publishTime>10/14/2018 19:30:30</publishTime>
+    </File>
+    <File Include="data/data1.csv">
+      <publishTime>10/13/2018 16:00:33</publishTime>
+    </File>
+    <File Include="data/data2.csv">
+      <publishTime>10/13/2018 16:00:33</publishTime>
+    </File>
+    <File Include="data/data3.csv">
+      <publishTime>10/13/2018 16:00:33</publishTime>
+    </File>
+    <File Include="data/data4.csv">
+      <publishTime>10/13/2018 16:00:33</publishTime>
+    </File>
+    <File Include="data/data5.csv">
+      <publishTime>10/13/2018 16:00:33</publishTime>
+    </File>
+    <File Include="data/data6.csv">
+      <publishTime>10/13/2018 16:00:33</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/18/2018 00:39:23</publishTime>
+    </File>
+    <File Include="dist/avatars/avatar2.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/avatars/avatar6.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/avatars/Thumbs.db">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/ace-rtl.min.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/ace-skins.min.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/ace.min.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/bootstrap.min.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/calendar-blue.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/GoogleFonts.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/images/meteorshower2.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/images/pattern.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/sumoselect.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/css/sumoselect.min.css">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/fonts/glyphicons-halflings-regulard41d.eot">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/1add.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/attendance.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/blog-icon.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/books.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/double_bed.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/exams.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/exams.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/finance.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/hostel.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/hr.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/leaving cert results.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/muser.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/news.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/news_icon.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/pic.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/reports.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/school bus.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/seting.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/student_details_logo.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/student_details_logo.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/timetable.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/timetable.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/gallery/user_profile_logo.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/arrowdown.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/arrowup.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/background.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/email1.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/email2.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/email3.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/email4.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/1add.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/attendance.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/attendance_icon.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/details_logo.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/emp_add.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/female.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/icon-transfer-lightblue.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/icon.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/loader.gif">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/male.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/muser.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/payroll.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/pic.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/report.png">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/teacher.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/Thumbs.db">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/TransParentDayLogo.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/gallery/user_profile_logo.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/loader.gif">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/male.jpg">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/images/Thumbs.db">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/ace-elements.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/ace-extra.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/ace.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/calendar-en.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery-1.4.1.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery-1.4.1.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery-1.8.2.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery-1.9.1.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery.dynDateTime.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery.maskedinput.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery.maskedinput.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery.simple-dtpicker.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery.sumoselect.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jquery.sumoselect.min.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/jsapi">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="dist/js/quicksearch.js">
+      <publishTime>10/07/2018 00:52:56</publishTime>
+    </File>
+    <File Include="DoctorHome.aspx">
+      <publishTime>10/14/2018 03:16:38</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/06/2018 18:53:33</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>10/15/2018 18:07:32</publishTime>
+    </File>
+    <File Include="Master.Master">
+      <publishTime>10/18/2018 00:06:33</publishTime>
+    </File>
+    <File Include="maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+      <publishTime>10/07/2018 00:49:58</publishTime>
+    </File>
+    <File Include="maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/fontawesome-webfont.eot">
+      <publishTime>10/07/2018 00:49:58</publishTime>
+    </File>
+    <File Include="maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/fontawesome-webfont.ttf">
+      <publishTime>10/07/2018 00:49:58</publishTime>
+    </File>
+    <File Include="maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/fontawesome-webfont.woff">
+      <publishTime>10/07/2018 00:49:58</publishTime>
+    </File>
+    <File Include="maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/fontawesome-webfont.woff2">
+      <publishTime>10/07/2018 00:49:58</publishTime>
+    </File>
+    <File Include="netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js">
+      <publishTime>10/07/2018 00:49:57</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/14/2018 18:04:15</publishTime>
+    </File>
+    <File Include="PatientHome.aspx">
+      <publishTime>10/13/2018 15:48:55</publishTime>
+    </File>
+    <File Include="ResearcherHome.aspx">
+      <publishTime>10/15/2018 02:49:42</publishTime>
+    </File>
+    <File Include="RssFeed.aspx">
+      <publishTime>10/15/2018 03:00:08</publishTime>
+    </File>
+    <File Include="Scripts/all.js">
+      <publishTime>10/08/2018 22:13:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>10/07/2018 00:55:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>10/07/2018 00:55:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.8.0.min.js">
+      <publishTime>10/08/2018 22:11:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.2.js">
+      <publishTime>10/07/2018 00:55:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.2.min.js">
+      <publishTime>10/07/2018 00:55:29</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/15/2018 22:05:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
